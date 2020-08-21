@@ -1,0 +1,45 @@
+h1 {
+    color: cyan;
+}
+
+p,h2{
+    text-align: center;
+}
+
+.header{
+    background-color:#cf1020;
+    display: flex;
+    justify-content: space-between;
+    /* border: solid; */
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu{
+    margin-right:25px;
+}
+
+.menu a{
+    margin-left:25px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+a:link{
+    color: aqua;
+}
+
+a:visited{
+    color: aqua;
+}
+
+
+
+
